@@ -1,3 +1,5 @@
+![Uploading Capture d’écran 2025-12-31 122921.png…]()
+
 # 🧩 ESX Modular HUD (Food • Thirst • Money • Job)
 
 Un **HUD ESX modulaire, propre et évolutif** pour **FiveM**, regroupant :
@@ -8,6 +10,7 @@ Un **HUD ESX modulaire, propre et évolutif** pour **FiveM**, regroupant :
 * 🧼 Argent sale
 * 🏦 Banque
 * 👔 Métier
+
 * ⭐ Grade
 
 👉 Ce HUD est **volontairement simple et bien structuré**, afin d’être **facilement amélioré, étendu ou redesigné** selon les besoins de ton serveur.
