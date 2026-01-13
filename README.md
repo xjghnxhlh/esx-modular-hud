@@ -1,4 +1,3 @@
-![Uploading Capture d’écran 2025-12-31 122921.png…]()
 
 # 🧩 ESX Modular HUD (Food • Thirst • Money • Job)
 
